@@ -20,8 +20,6 @@ __status__ = "Production"
 import sys
 import json
 
-cmdargs = str(sys.argv)
-
 filename = str(sys.argv[1]) 
 jsonfilename = filename + ".json"
 
